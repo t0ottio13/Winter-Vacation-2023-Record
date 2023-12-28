@@ -27,9 +27,9 @@ https://github.com/microsoft/generative-ai-for-beginners
         - https://learn.microsoft.com/ja-jp/credentials/certifications/exams/az-400/
 - Unity
     - out only
-バーチャルライブのVRC移行作業
-        - ライティング修正
-        - エフェクト修正
+        - バーチャルライブのVRC移行作業
+            - ライティング修正
+            - エフェクト修正
 - PalanAR
     - out only
         - アイデア検討・検証、ブログに記録（個人）
