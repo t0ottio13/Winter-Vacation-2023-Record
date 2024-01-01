@@ -9,7 +9,7 @@
 - Blazor
     - in
         - https://learn.microsoft.com/ja-jp/training/paths/build-web-apps-with-blazor/
-        - https://learn.microsoft.com/ja-jp/aspnet/core/blazor/tutorials/?view=aspnetcore-8.0
+        - ~~https://learn.microsoft.com/ja-jp/aspnet/core/blazor/tutorials/?view=aspnetcore-8.0~~ => 一つ目と内容が重複する多面
     - out
         - ポートフォリオサイト制作
         - 作業記録のブログ（個人）
